@@ -1,0 +1,6 @@
+/.idea
+/.pytest_cache
+/library3.txt
+/library4.txt
+/test.cpp
+/test_seq.py
