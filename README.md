@@ -1,5 +1,3 @@
-### author: Cheng Yexiang 
-
 ### Yeast whole proteome query program 
 
 #### 1. File description
