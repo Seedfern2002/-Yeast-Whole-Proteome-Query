@@ -21,7 +21,7 @@ python preprocessing.py
 It would take 1~2 minutes.
 
 #### 4. alignment:
-To alignment the sequence:
+To align the sequence:
 ```bash
 python mapping.py --DNA [input sequence]
 ```
